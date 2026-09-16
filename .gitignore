@@ -1,0 +1,5 @@
+# Never publish the answer keys
+*corrige*
+.ipynb_checkpoints/
+dist/
+.jupyterlite.doit.db
